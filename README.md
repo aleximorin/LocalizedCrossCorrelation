@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1280454770.svg)](https://doi.org/10.5281/zenodo.20855856)
+
 # Localized Cross-Correlations for GPR Ice Flow Measurement
 
 This repository contains the code and data accompanying our paper on using **Localized Cross-Correlations (LCC)** to measure intraglacial displacements from repeated Ground Penetrating Radar (GPR) profiles.
